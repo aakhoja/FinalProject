@@ -35,3 +35,9 @@ For bonus2.cpp please use ---- g++ -o bonus2 bonus2.cpp
 Bonus Question 3 - bonus3.cpp
 
 For using bonus3.cpp please use ----- gcc -o bonus3 bonus3.c
+
+
+The TAR BALL submitted consist of many folders, but within the FinalProject consist of my actual codes.
+
+
+
