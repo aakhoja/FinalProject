@@ -1,0 +1,5 @@
+# points Time (s) Estimated value Deviation % error\
+10	 0.06s		3.2		0.06	6%	
+100	 0.08s		3.2		0.06	6%	
+1000	 0.010s		3.18		0.04	4%
+10000	 0.14s		3.122		-0.018	1.8%
