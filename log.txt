@@ -1,3 +1,9 @@
+commit 73b3c6e5894ef0f13b21c327994ce13d2dcf602f
+Author: Aman Khoja <aak171730@utdallas.edu>
+Date:   Mon Dec 17 11:47:33 2018 -0600
+
+    Update log.txt
+
 commit 20153a685797c97a9c4090e65bccdd68b1fc9bf2
 Author: Aman Khoja <aak171730@utdallas.edu>
 Date:   Mon Dec 17 11:46:30 2018 -0600
